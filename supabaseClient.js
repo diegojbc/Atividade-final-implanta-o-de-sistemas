@@ -24,7 +24,7 @@
  *       FOR ALL USING (true) WITH CHECK (true);
  */
 
-const SUPABASE_URL = 'https://sbdnustznmhwuvewuyhc.supabase.co/rest/v1/';
+const SUPABASE_URL = 'https://sbdnustznmhwuvewuyhc.supabase.co';
 const SUPABASE_ANON = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNiZG51c3R6bm1od3V2ZXd1eWhjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg2MTIwMzMsImV4cCI6MjA5NDE4ODAzM30.YFG_JbbzmD_jp53spxgnZrrP0YUwGOgVO9wOqiRD_uY';
 
 
