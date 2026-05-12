@@ -1,0 +1,30 @@
+# Dependências
+node_modules/
+.npm
+
+# Arquivos de ambiente (NUNCA versionar credenciais!)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build
+dist/
+build/
+.vercel/
